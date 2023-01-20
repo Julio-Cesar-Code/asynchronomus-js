@@ -1,0 +1,23 @@
+{
+  "name": "curso-asincronismo",
+  "version": "1.0.0",
+  "description": "My asyncornism code with JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "callback": "node src/callback/challenge.js"
+  },
+  "keywords": [
+    "javaScripts",
+    "asincronyms"
+  ],
+  "author": "julio chavez < julio111499@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "xmlhttprequest": "^1.8.0"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.0"
+  },
+  "type": "module"
+}
